@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Fernandes (vulgo KioKio)
+## Olá! Eu sou o Daniel Fernandes (vulgo KioKio) 👋
 
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estou estudando Python e Java
