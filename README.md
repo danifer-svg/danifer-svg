@@ -11,18 +11,19 @@
 <i>
 <br />
 
-  💫 Sou estudante da Faculdade Estácio, gosto muito de criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
+> 💫 Sou estudante da Faculdade Estácio, gosto muito de criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
 
-  📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
+> 📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
 
-  🖥️ Meu principal objetivo é ser especialista em desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
+> 🖥️ Meu principal objetivo é ser especialista em desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
 
-- 🔭 Hoje trabalho com Back-end
-- 🌱 Estou estudando Python e Java
-- 📫 Contate-me no email: danielcristianferbe@gmail.com
+> - 🔭 Hoje trabalho com Back-end
+> - 🌱 Estou estudando Python e Java
+> - 📫 Contate-me no email: danielcristianferbe@gmail.com
 <br />
 <br />
 </i>
+
 ##
 
 <div>
