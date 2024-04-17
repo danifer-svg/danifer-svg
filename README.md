@@ -15,12 +15,6 @@
 - 🌱 Estou estudando Python e Java
 - 📫 Contate-me no email: danielcristianferbe@gmail.com
 
-<div>
-  <a href="https://github.com/KioKioCatto">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kiokiocatto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiokiocatto&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Dani-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
