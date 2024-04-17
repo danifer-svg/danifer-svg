@@ -31,6 +31,7 @@
   <img align="center" alt="Dani-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Dani-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Dani-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="right" alt="Kio-eepy" height="250" width="250" src="https://media.discordapp.net/attachments/444901782208905237/713576935866761216/Daniels_cat_1.gif?ex=662c60cf&is=6619ebcf&hm=241e022a345a61d4112985b638c56ccf2b7f630b712590bec822c24214ab4750&=&width=449&height=449">
 </div>
 
 ##
