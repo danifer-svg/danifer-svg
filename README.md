@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Eu+sou+KioKio!;"/>
-</h1>
-
 ## Olá! Eu sou o Daniel Fernandes (vulgo KioKio)
 
 - 🔭 Hoje trabalho com Back-end
