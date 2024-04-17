@@ -5,6 +5,8 @@
 
 ##
 
+<i>(Fortaleza, CE - Brasil)</i>
+
   💫 Sou estudante da Faculdade Estácio, gosto muito de criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
 
   📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
