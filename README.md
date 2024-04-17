@@ -28,4 +28,4 @@
   <a href="https://github.com/KioKioCatto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/kiokiocatto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KioKioCatto/KioKioCatto/blob/output/github-contribution-grid-snake.svg)
