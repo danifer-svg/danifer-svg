@@ -7,6 +7,10 @@
 
 <i>(Fortaleza, CE - Brasil)</i>
 
+### Sobre mim
+<i>
+<br />
+
   💫 Sou estudante da Faculdade Estácio, gosto muito de criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
 
   📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
@@ -16,7 +20,9 @@
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estou estudando Python e Java
 - 📫 Contate-me no email: danielcristianferbe@gmail.com
-
+<br />
+<br />
+</i>
 ##
 
 <div>
