@@ -27,8 +27,4 @@
   <a href="https://github.com/KioKioCatto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
-          <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/kiokiocatto/kiokiocatto/blob/output/github-contribution-grid-snake.svg)" />
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/kiokiocatto/kiokiocatto/blob/output/github-contribution-grid-snake.svg)" />
-</picture>
+![Snake animation](https://github.com/kiokiocatto/kiokiocatto/blob/output/github-contribution-grid-snake.svg)
