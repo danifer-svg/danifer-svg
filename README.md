@@ -26,8 +26,6 @@
 
 ##
 
-
-
 <div>
   <a href="https://github.com/KioKioCatto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kiokiocatto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -46,6 +44,8 @@
 </div>
 
 ##
+
+### Onde você pode me encontrar:
 
 <div>
   <a href="https://www.linkedin.com/in/daniel-fernandes-5315a2167/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
