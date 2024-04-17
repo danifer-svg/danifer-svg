@@ -1,5 +1,16 @@
 ## Olá! Eu sou o Daniel Fernandes (vulgo KioKio) 👋
 
+#### *"A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência."*
+#### - Bill Gates
+
+##
+
+  💫 Sou estudante da faculdade Estácio, gosto muito de criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
+
+  📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
+
+  🖥️ Meu principal objetivo é ser especialista em desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
+
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estou estudando Python e Java
 - 📫 Contate-me no email: danielcristianferbe@gmail.com
