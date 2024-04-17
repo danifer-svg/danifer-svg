@@ -1,4 +1,4 @@
-# Olá! Eu sou o Daniel Fernandes (vulgo KioKio) 👋
+# Olá! Eu sou o Daniel Fernandes (vulgo KioKio)! 👋
 
 #### *"A primeira regra de qualquer tecnologia utilizada nos negócios é que a automação aplicada a uma operação eficiente aumentará a eficiência. A segunda é que a automação aplicada a uma operação ineficiente aumentará a ineficiência."*
 #### - Bill Gates
