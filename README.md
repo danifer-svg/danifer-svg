@@ -15,7 +15,9 @@
 
 > 📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
 
-> 🖥️ Meu principal objetivo é ser especialista em desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
+> 🎯 Meu próximo objetivo é ser especialista em Data Analyst, identificar oportunidades, tendências, melhorias e insights valiosos de negócios para uma tomada de decisão assertiva e consciente para as empresas.
+
+> 🖥️ Minha próxima meta é desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
 
 > - 🔭 Hoje trabalho com Back-end
 > - 🌱 Estou estudando Python e Java
