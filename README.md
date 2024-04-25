@@ -21,7 +21,7 @@
 
 > - 🔭 Hoje trabalho com Back-end
 > - 🌱 Estou estudando Python e Java
-> - 📫 Contate-me no email: danielcristianferbe@gmail.com
+> - 📫 Contate-me pelo email: danielcristianferbe@gmail.com
 <br />
 <br />
 </i>
