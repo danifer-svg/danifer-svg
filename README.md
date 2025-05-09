@@ -1,7 +1,7 @@
 # Olá! Eu sou o Daniel Fernandes! 👋
 
-#### *"Inovação distingue um líder de um seguidor."*
-#### - Steve Jobs
+#### *"Um idiota admira a complexidade, um gênio admira a simplicidade"*
+#### - Terry A. Davis
 
 ##
 
