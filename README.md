@@ -1,6 +1,6 @@
 # Olá! Eu sou o Daniel Fernandes! 👋
 
-#### *"Inovação distingue um líder de um seguidor"*
+#### *"Inovação distingue um líder de um seguidor."*
 #### - Steve Jobs
 
 ##
