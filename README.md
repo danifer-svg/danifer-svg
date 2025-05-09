@@ -1,6 +1,6 @@
 # Olá! Eu sou o Daniel Fernandes! 👋
 
-#### *"Um idiota admira a complexidade, um gênio admira a simplicidade"*
+#### *"Um idiota admira a complexidade, um gênio admira a simplicidade."*
 #### - Terry A. Davis
 
 ##
