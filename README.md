@@ -1,4 +1,4 @@
-# Olá! Eu sou o Daniel Fernandes! 👋
+# Olá! Eu sou o Daniel Fernandes!
 
 #### *"Um idiota admira a complexidade, um gênio admira a simplicidade."*
 #### - Terry A. Davis
@@ -11,17 +11,17 @@
 <i>
 <br >
 
-> 💫 Sou estudante da Faculdade Estácio e desenvolvedor back-end, tenho uma enorme paixão em criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
+> Sou estudante da Faculdade Estácio e desenvolvedor back-end, tenho uma enorme paixão em criar programas e sistemas. Minha especialidade é SQL e PL/SQL na construção de banco de dados.
 
-> 📚 Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
+> Atualmente estou me aprofundando nas linguagens Java e Python, com foco em Data Science e Análise de Sistemas.
 
-> 🎯 Meu principal objetivo é ser especialista em Data Analyst, identificar oportunidades, tendências, melhorias e insights valiosos de negócios para uma tomada de decisão assertiva e consciente para as empresas.
+> Meu principal objetivo é ser especialista em Análise de Dados e Desenvolvedor SQL, identificar oportunidades, tendências, melhorias e insights valiosos de negócios para uma tomada de decisão assertiva e consciente para as empresas. Além da construção de banco de dados, mantendo a responsabilidade da arquitetura, configuração, desenvolvimento do banco e realizando de relatórios do mesmo.
 
-> 🖥️ Minha próxima meta é desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
+> Minha próxima meta é desenvolvimento IA, construir projetos de redes neurais para o desenvolvimento, facilidade e maior acessibilidade nas empresas e na sociedade.
 
-> - 🔭 Hoje trabalho com Back-end
-> - 🌱 Estou estudando Python e Java
-> - 📫 Contate-me pelo email: danielcristianferbe@gmail.com
+> - Hoje trabalho com Back-end;
+> - Estou estudando Python e C;
+> - Contate-me pelo email: danielcristianferbe@gmail.com
 <br />
 <br />
 </i>
